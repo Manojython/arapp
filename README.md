@@ -1,2 +1,3 @@
-# arapp
-This app demonstrates use of Augmented Reality in an Android Application using open source tools
+# AR- Android
+
+This app makes use of Augmented Reality to create an experience by overlaying videos on the defined space.
